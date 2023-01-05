@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'gilroyReg';
+  src: url('./assets/fonts/Gilroy-Regular.ttf');
+}
+img{
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+.nopadmar{
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+

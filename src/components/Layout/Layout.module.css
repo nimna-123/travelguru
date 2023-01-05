@@ -1,0 +1,18 @@
+.bgL{
+    background-color: #E0F0EC;
+    height: 100vh;
+}
+.bgD{
+    background-color: rgba(6, 29, 89, 0.67) !important;
+    height: 100vh;
+
+}
+.MainBox{
+    margin-top: 5%;
+   align-items: center;
+    min-height: 800px;
+   
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.8);
+   
+}

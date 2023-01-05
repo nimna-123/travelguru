@@ -1,0 +1,74 @@
+.GoogleL{
+    width: 50%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFE9EB;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 15px;
+    cursor: pointer;
+}
+.faceBookL{
+    width: 25%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFE9EB;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+.AndroidL{
+    width: 25%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #FFE9EB;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+.faceBookD{
+    width: 25%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+.AndroidD{
+    width: 25%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 12px;
+    margin-left: 15px;
+    cursor: pointer;
+
+}
+.GoogleD{
+    width: 50%;
+    height: 50px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    color: black;
+    font-family: 'gilroyReg';
+    text-align: center;
+    padding-top: 15px;
+    cursor: pointer;
+}
