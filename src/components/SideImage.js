@@ -5,7 +5,7 @@ import DarkBg from '../assets/images/dark.jpeg'
 const SideImage = () =>{
    const show = useSelector((state) => state.lightMode);
     return(
-        <div className='col-md-7 nopadmar'>
+        <div className='col-md-7 nopadmar display'>
            <img src={show?DarkBg:LightBg} alt='lightbg' width='100%' height='850px'/>
 
         </div>

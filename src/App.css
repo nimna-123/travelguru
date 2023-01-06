@@ -46,5 +46,9 @@
    color: rgb(255, 254, 254);
 
 }
-
+@media only screen and (max-width: 750px) {
+  .formPad{
+    padding: 30px 20px !important;
+  }
+}
 
